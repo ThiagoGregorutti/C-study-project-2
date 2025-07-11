@@ -130,5 +130,5 @@ int main() {
     else
         printf("Final result: %s wins the round!\n", (sum1 > sum2) ? c1.name : c2.name);
 
-    return 0;
+    return 1;
 }
